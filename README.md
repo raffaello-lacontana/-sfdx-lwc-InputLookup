@@ -1,1 +1,1 @@
-# -sfdx-lwc-InputLookup
+# sfdx-lwc-InputLookup
